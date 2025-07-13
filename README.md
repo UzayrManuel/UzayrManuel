@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Uzayr
 
 🎯 I'm diving into the world of **Cybersecurity**, using this space to document my journey, projects, and hands-on progress.
