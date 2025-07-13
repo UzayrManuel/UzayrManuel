@@ -1,16 +1,42 @@
 ## Hi there 👋
+# 👋 Hi, I'm Uzayr
 
-<!--
-**UzayrManuel/UzayrManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm diving into the world of **Cybersecurity**, using this space to document my journey, projects, and hands-on progress.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔐 Cybersecurity enthusiast with an interest in offensive security
+- 🧪 Passionate about exploring, testing, and breaking things to understand how they work
+- 📚 Currently studying for:
+  - CompTIA Security+
+  - eLearnSecurity Junior Penetration Tester (eJPT)
+
+---
+
+## 🎯 Goals
+
+- ✅ Build a strong, practical cybersecurity portfolio
+- 🔜 Gain real-world experience through labs, challenges, and CTFs
+- 🔜 Write beginner-friendly walkthroughs and technical documentation
+- 🔜 Contribute to the infosec community through notes, tools, and small projects
+
+---
+
+## 📁 Repositories
+
+| Repository              | Description                                             |
+|-------------------------|---------------------------------------------------------|
+| 🧪 `tryhackme-writeups` | Personal walkthroughs of rooms and labs                 |
+| 🛠️ `bash-scripts`       | Custom scripts for automation and reconnaissance tasks  |
+| 🔍 `nmap-notes`         | Real-world scanning techniques and reference examples   |
+| 📘 `cyber-roadmap`      | A curated plan of learning paths, tools, and resources  |
+
+---
+
+## 📬 Contact
+
+uzzimanuel111@gmail.com
+
+Thanks for checking out my GitHub!
